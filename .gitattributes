@@ -1,2 +1,1 @@
-data/Seattle_Real_Time_Fire_911_Calls.csv filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
